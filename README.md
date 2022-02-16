@@ -13,17 +13,17 @@ MC-Student Details app have control to: <br/>
 ### ScreenShots
 
 #### Students List:
-
-//<img src="" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/43794593/154314101-6f2b88c5-6720-41a6-814f-4dd05187b12a.jpg" width=30% height=30%>
 <br/>
 
 #### Details when Clicked on a Student
-<img src="" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/43794593/154314108-ed2994a9-dc34-409c-a336-355ae4383b7b.jpg" width=30% height=30%>
 <br/>
 
 #### Made Changes in the details
-<img src="" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/43794593/154314131-12d1fdc4-c94a-4f76-833f-62a146cc1c03.jpg" width=30% height=30%>
 <br/>
 
 #### Reflected Changes
-<img src="" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/43794593/154314151-8dd6a67a-0ada-4862-a786-90fff743aaa0.jpg" width=30% height=30%>
+
