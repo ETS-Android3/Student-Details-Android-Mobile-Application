@@ -1,0 +1,4 @@
+#Thu Feb 25 18:19:05 IST 2021
+base.0=/home/shreya1/AndroidStudioProjects/Assignment3/Assignment3/assignment0-shreyagoel54/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

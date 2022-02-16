@@ -1,0 +1,21 @@
+com/example/studentdetails/Student.java
+ com.example.studentdetails.Student
+com/example/studentdetails/StudentListFragment.java
+ com.example.studentdetails.StudentListFragment
+ com.example.studentdetails.StudentListFragment$DetailsAdapter
+ com.example.studentdetails.StudentListFragment$DetailsAdapter$Detailsviewholder
+com/example/studentdetails/BuildConfig.java
+ com.example.studentdetails.BuildConfig
+com/example/studentdetails/MainActivity.java
+ com.example.studentdetails.MainActivity
+com/example/studentdetails/SingleFragmentActivity.java
+ com.example.studentdetails.SingleFragmentActivity
+com/example/studentdetails/StudentItem.java
+ com.example.studentdetails.StudentItem
+com/example/studentdetails/StudentDetailsFragment.java
+ com.example.studentdetails.StudentDetailsFragment
+ com.example.studentdetails.StudentDetailsFragment$1
+ com.example.studentdetails.StudentDetailsFragment$2
+ com.example.studentdetails.StudentDetailsFragment$3
+com/example/studentdetails/SecondActivity.java
+ com.example.studentdetails.SecondActivity
