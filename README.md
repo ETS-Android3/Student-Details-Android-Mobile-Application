@@ -1,7 +1,7 @@
 # Student-Details-Android-Mobile-Application
 
 ### Application Activity
-<p aign = "justify">
+<p align = "justify">
 MC-Student Details app have control to: <br/>
 1) Use fragment to show the list of students who have registered in MC course (use RecyclerView to show the list of students)  <br/>
 2) The list should contain the name and roll number of students. <br/>
