@@ -13,6 +13,7 @@ MC-Student Details app have control to: <br/>
 ### ScreenShots
 
 #### Students List:
+<img src="https://user-images.githubusercontent.com/43794593/154314414-a906e8df-99f5-407a-a4c4-e94b80c6d142.jpg" width=30% height=30%>
 <img src="https://user-images.githubusercontent.com/43794593/154314101-6f2b88c5-6720-41a6-814f-4dd05187b12a.jpg" width=30% height=30%>
 <br/>
 
